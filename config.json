@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-file-utility",
+      "title": "Python Functions & File Utility Mini-Project",
+      "description": "Build a simple task manager using Python functions and file handling",
+      "path": "assignments/python-functions-file-utility",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
